@@ -1,1 +1,10 @@
+Ретина картинки
 
+погугли "двойная плотность пикселей"
+https://htmlacademy.ru/blog/html/retina?amp=1
+
+<img src="pic/image.jpg" srcset="pic/image.jpg 1x, pic/image@2x.jpg 2x" alt="">
+
+
+Шоу билдилось без webp и <picture>
+npm run devbuild
